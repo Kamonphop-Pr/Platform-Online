@@ -18,4 +18,7 @@ Step 5	If Error go to floder config and open files Config.js
                 },
         and save files
         called cmd use " npm start " again
-        
+
+User Admin
+username : Admin
+password : AdminAdmin
